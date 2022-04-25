@@ -1,0 +1,30 @@
+.container_my {
+    max-width: 1280px;
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.as-button {
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: #007bff;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+    font-size: 11px;
+}
+
+.as-button:hover {
+    color: white;
+}
+
+.topic-link {
+    text-decoration: none;
+}
+
+.row-as-link {
+}
+
+.row-as-link:hover {
+    border: green solid 1px;
+}
